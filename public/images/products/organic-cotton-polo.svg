@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="organic cotton polo">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1e7"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".35" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="656.0" cy="112.00000000000001" r="176.0" fill="#fff" opacity=".35"/>
+<circle cx="80.0" cy="720.0" r="144.0" fill="#74a98a" opacity=".18"/>
+<ellipse cx="400" cy="690" rx="220" ry="18" fill="#1c2a22" opacity=".22" filter="url(#blur)"/>
+<path d="M300 200 L360 175 Q400 215 440 175 L500 200 L600 262 L548 336 L500 304 L500 610 L300 610 L300 304 L252 336 L200 262 Z" fill="#2d6a4f"/><path d="M300 200 L360 175 Q400 215 440 175 L500 200 L600 262 L548 336 L500 304 L500 610 L300 610 L300 304 L252 336 L200 262 Z" fill="url(#gd)"/>
+<path d="M360 175 Q400 215 440 175 L458 190 L400 270 L342 190Z" fill="#1f5a3d"/>
+<path d="M400 215 V330" stroke="#123524" stroke-width="4"/>
+<circle cx="400" cy="250" r="6" fill="#f6f1e7"/><circle cx="400" cy="300" r="6" fill="#f6f1e7"/>
+<path d="M205 266 L252 336 M595 266 L548 336" stroke="#f6f1e7" stroke-width="10" opacity=".7"/>
+<g transform="translate(448 380) scale(0.8)" fill="#f6f1e7"><path d="M0 24 C0 4 14 -8 32 -10 C32 8 20 24 0 24Z"/><rect x="-2" y="22" width="3" height="14" transform="rotate(-35 0 24)"/></g>
+</svg>

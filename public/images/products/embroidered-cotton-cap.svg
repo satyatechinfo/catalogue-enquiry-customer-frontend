@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="embroidered cotton cap">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1e7"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".35" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="656.0" cy="112.00000000000001" r="176.0" fill="#fff" opacity=".35"/>
+<circle cx="80.0" cy="720.0" r="144.0" fill="#74a98a" opacity=".18"/>
+<ellipse cx="400" cy="640" rx="240" ry="20" fill="#1c2a22" opacity=".22" filter="url(#blur)"/>
+<path d="M220 470 Q220 220 400 210 Q580 220 580 470Z" fill="#2d6a4f"/><path d="M220 470 Q220 220 400 210 Q580 220 580 470Z" fill="url(#gd)"/>
+<path d="M400 210 V470 M310 230 Q290 350 300 470 M490 230 Q510 350 500 470" stroke="#123524" stroke-width="3" fill="none" opacity=".55"/>
+<path d="M200 470 H600 Q640 560 520 560 H300 Q180 560 200 470Z" fill="#123524"/>
+<circle cx="400" cy="212" r="12" fill="#123524"/>
+<g transform="translate(378 330) scale(1.2)" fill="#f6f1e7"><path d="M0 24 C0 4 14 -8 32 -10 C32 8 20 24 0 24Z"/><rect x="-2" y="22" width="3" height="14" transform="rotate(-35 0 24)"/></g>
+<rect x="300" y="582" width="200" height="14" rx="7" fill="#c9b995"/>
+</svg>

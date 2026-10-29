@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="premium fleece zip jacket">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1e7"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".35" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="656.0" cy="112.00000000000001" r="176.0" fill="#fff" opacity=".35"/>
+<circle cx="80.0" cy="720.0" r="144.0" fill="#74a98a" opacity=".18"/>
+<ellipse cx="400" cy="690" rx="240" ry="18" fill="#1c2a22" opacity=".22" filter="url(#blur)"/>
+<path d="M300 190 L360 165 Q400 195 440 165 L500 190 L610 300 L586 640 L520 640 L510 330 L510 620 L290 620 L290 330 L280 640 L214 640 L190 300 Z" fill="#123524"/><path d="M300 190 L360 165 Q400 195 440 165 L500 190 L610 300 L586 640 L520 640 L510 330 L510 620 L290 620 L290 330 L280 640 L214 640 L190 300 Z" fill="url(#gd)"/>
+<path d="M360 165 Q400 195 440 165 L450 215 Q400 250 350 215Z" fill="#1f5a3d"/>
+<path d="M400 230 V620" stroke="#ddd0b6" stroke-width="6"/>
+<rect x="392" y="230" width="16" height="30" rx="4" fill="#ece3d1"/>
+<path d="M318 470 h60 M422 470 h60" stroke="#ddd0b6" stroke-width="5" opacity=".8"/>
+<g transform="translate(432 330) scale(0.8)" fill="#f6f1e7"><path d="M0 24 C0 4 14 -8 32 -10 C32 8 20 24 0 24Z"/><rect x="-2" y="22" width="3" height="14" transform="rotate(-35 0 24)"/></g>
+</svg>

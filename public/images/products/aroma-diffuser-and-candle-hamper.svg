@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="aroma diffuser and candle hamper">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1e7"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".35" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="656.0" cy="112.00000000000001" r="176.0" fill="#fff" opacity=".35"/>
+<circle cx="80.0" cy="720.0" r="144.0" fill="#74a98a" opacity=".18"/>
+<ellipse cx="400" cy="690" rx="300" ry="20" fill="#1c2a22" opacity=".22" filter="url(#blur)"/>
+<rect x="110" y="560" width="580" height="110" rx="16" fill="#b08a5a"/><path d="M110 600 H690 M110 640 H690" stroke="#8e6c41" stroke-width="3"/>
+<rect x="170" y="400" width="200" height="170" rx="22" fill="#f6f1e7"/><rect x="170" y="400" width="200" height="170" rx="22" fill="url(#gd)"/>
+<rect x="190" y="450" width="160" height="64" rx="8" fill="#2d6a4f"/><g transform="translate(248 460) scale(1.0)" fill="#f6f1e7"><path d="M0 24 C0 4 14 -8 32 -10 C32 8 20 24 0 24Z"/><rect x="-2" y="22" width="3" height="14" transform="rotate(-35 0 24)"/></g>
+<path d="M270 400 q-14 -34 0 -62 q16 30 0 62Z" fill="#e8b04a"/><path d="M270 392 q-6 -16 0 -30 q8 14 0 30Z" fill="#fff3c4"/>
+<rect x="440" y="360" width="130" height="210" rx="40" fill="#123524"/><rect x="440" y="360" width="130" height="210" rx="40" fill="url(#gd)"/>
+<rect x="488" y="320" width="34" height="46" rx="8" fill="#ddd0b6"/>
+<path d="M496 320 L440 160 M505 320 L505 130 M514 320 L570 170" stroke="#a9885a" stroke-width="7" stroke-linecap="round"/>
+<rect x="465" y="430" width="80" height="50" rx="6" fill="#f6f1e7" opacity=".9"/><g transform="translate(610 560) rotate(-30) scale(0.7)"><path d="M0 0 C40 -40 90 -30 110 -90 C60 -100 10 -70 0 0Z" fill="#74a98a"/><path d="M0 0 C30 -30 60 -50 100 -85" stroke="#f6f1e7" stroke-width="3" fill="none" opacity=".6"/></g>
+</svg>

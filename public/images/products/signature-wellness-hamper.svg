@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="signature wellness hamper">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1e7"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".35" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="656.0" cy="112.00000000000001" r="176.0" fill="#fff" opacity=".35"/>
+<circle cx="80.0" cy="720.0" r="144.0" fill="#74a98a" opacity=".18"/>
+<ellipse cx="400" cy="700" rx="290" ry="22" fill="#1c2a22" opacity=".22" filter="url(#blur)"/>
+<path d="M180 400 L620 400 L590 660 Q400 700 210 660Z" fill="#b08a5a"/>
+<path d="M190 450 H610 M196 500 H604 M202 550 H598 M208 600 H592" stroke="#8e6c41" stroke-width="3"/>
+<path d="M300 440 V660 M400 440 V680 M500 440 V660" stroke="#8e6c41" stroke-width="3" opacity=".7"/>
+<path d="M180 400 Q400 300 620 400" stroke="#8e6c41" stroke-width="16" fill="none" stroke-linecap="round"/>
+<rect x="250" y="250" width="100" height="170" rx="30" fill="#2d6a4f"/><rect x="266" y="220" width="68" height="36" rx="8" fill="#123524"/>
+<rect x="360" y="290" width="110" height="130" rx="14" fill="#f6f1e7"/><path d="M415 290 q-12 -30 0 -52 q14 26 0 52Z" fill="#e8b04a"/>
+<rect x="480" y="260" width="96" height="160" rx="10" fill="#123524"/><rect x="494" y="290" width="68" height="70" rx="6" fill="#ece3d1"/>
+<path d="M170 500 H630" stroke="#f6f1e7" stroke-width="30" opacity=".9"/><path d="M400 500 q-50 -60 -90 -30 q40 50 90 30Z M400 500 q50 -60 90 -30 q-40 50 -90 30Z" fill="#f6f1e7"/><g transform="translate(150 420) rotate(-30) scale(0.8)"><path d="M0 0 C40 -40 90 -30 110 -90 C60 -100 10 -70 0 0Z" fill="#2d6a4f"/><path d="M0 0 C30 -30 60 -50 100 -85" stroke="#f6f1e7" stroke-width="3" fill="none" opacity=".6"/></g><g transform="translate(660 420) rotate(40) scale(0.8)"><path d="M0 0 C40 -40 90 -30 110 -90 C60 -100 10 -70 0 0Z" fill="#74a98a"/><path d="M0 0 C30 -30 60 -50 100 -85" stroke="#f6f1e7" stroke-width="3" fill="none" opacity=".6"/></g>
+</svg>

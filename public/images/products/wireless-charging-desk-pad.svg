@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="wireless charging desk pad">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6f1e7"/><stop offset="1" stop-color="#ddd0b6"/></linearGradient>
+<linearGradient id="gl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity=".0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".18"/><stop offset=".35" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="800" fill="url(#bg)"/>
+<circle cx="656.0" cy="112.00000000000001" r="176.0" fill="#fff" opacity=".35"/>
+<circle cx="80.0" cy="720.0" r="144.0" fill="#74a98a" opacity=".18"/>
+<ellipse cx="400" cy="640" rx="320" ry="20" fill="#1c2a22" opacity=".22" filter="url(#blur)"/>
+<path d="M110 360 L690 360 L730 590 L70 590Z" fill="#123524"/><path d="M110 360 L690 360 L730 590 L70 590Z" fill="url(#gd)"/>
+<path d="M110 360 L690 360" stroke="#74a98a" stroke-width="3" opacity=".6"/>
+<ellipse cx="400" cy="470" rx="95" ry="38" fill="none" stroke="#74a98a" stroke-width="4"/><ellipse cx="400" cy="470" rx="55" ry="22" fill="none" stroke="#74a98a" stroke-width="3" opacity=".7"/>
+<path d="M120 560 L680 560" stroke="#c8a96a" stroke-width="3" opacity=".7" stroke-dasharray="6 6"/>
+<g transform="rotate(-8 520 330)"><rect x="470" y="190" width="110" height="200" rx="18" fill="#1c2a22"/><rect x="478" y="202" width="94" height="176" rx="10" fill="#74a98a"/><circle cx="525" cy="290" r="26" fill="#f6f1e7" opacity=".6"/></g>
+</svg>
